@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyView">
+        <attr name="circle_radius" format="dimension" />//圆的半径
+        <attr name="text" format="string" />//文字
+
+    </declare-styleable>
+
+</resources>
